@@ -19,9 +19,10 @@ import java.util.List;
 public class TwoSum {
 
     public static void main(String[] args) {
-        int[] nums =[2, 7, 11, 15];
+        int[] nums = [2, 7, 11, 15];
         int target = 9;
-        TwoSumFunction(nums, target);
+        
+
     }
 
      private int[] TwoSumFunction(int[] nums, int target) {
@@ -32,7 +33,7 @@ public class TwoSum {
            int firstNum = nums[i];
            for (int j = i; j < nums.length; j++) {
             if(firstNum + nums[i] == target){
-                sumNum[firstNum,nums[i]];
+                sumNum[firstNum, nums[i]];
                 return sumNum;
                 
             } 
