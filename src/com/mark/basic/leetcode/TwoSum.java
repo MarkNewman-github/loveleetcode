@@ -1,6 +1,7 @@
 package com.mark.basic.leetcode;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -19,28 +20,24 @@ import java.util.List;
 public class TwoSum {
 
     public static void main(String[] args) {
-        int[] nums = [2, 7, 11, 15];
-        int target = 9;
-        
-
+        int[] num = {2, 7, 11, 15};
+        int tag = 9;
+        int nums;
     }
 
-     private int[] TwoSumFunction(int[] nums, int target) {
+    public int[] twoSum(int[] nums, int target) {
 
-        int[] sumNum ;
-        //思路1:将nums中的每一个元素进行遍历相加，最后得到结果
-        for (int i = 0; i < nums.length; i++) {
-           int firstNum = nums[i];
-           for (int j = i; j < nums.length; j++) {
-            if(firstNum + nums[i] == target){
-                sumNum[firstNum, nums[i]];
-                return sumNum;
-                
-            } 
-           }
-           
+        HashMap<int, int> hashMap = new HashMap<int, int>();
+        int n = nums.length;
+        for (int i = 0; i < n; i++) {
+            int firstNum = nums[i];
+            for (int j = i + 1; j < nums.length; j++) {
+                if(firstNum + nums[j] == target){
+                    return new int[]{i, j};
+
+                }
+            }
         }
-        return sumNum;
-
-    } 
+        return new int[0];
+    }
 }
