@@ -20,10 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bc95c6-94d1-410d-8be2-d725b9b14e22" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Nine_isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Seven_Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Twenty_isValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/tree/BST/BinarySearchTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/tree/BST/Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/tree/BianryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/tree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/tree/LLQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/utils/BinaryTreeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/utils/BinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/utils/InorderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/utils/LevelOrderPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/utils/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/utils/Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loveleetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/loveleetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loveleetcode/com/mark/basic/leetcode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loveleetcode/com/mark/basic/leetcode/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,15 +74,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mark/basic/utils" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Fib">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/mark/basic/utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Nine_isPalindrome">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mark.basic.s01.Array" />
       <module name="loveleetcode" />
@@ -108,8 +124,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mark.basic.leetcode.TwoSum" />
+    <configuration name="Nine_isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mark.basic.leetcode.Nine_isPalindrome" />
+      <module name="loveleetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mark.basic.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seven_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mark.basic.leetcode.Seven_Reverse" />
       <module name="loveleetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -128,13 +158,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -157,16 +189,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Fib" />
-      <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Array" />
+      <item itemvalue="Application.Seven_Reverse" />
+      <item itemvalue="Application.Nine_isPalindrome" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nine_isPalindrome" />
+        <item itemvalue="Application.Seven_Reverse" />
         <item itemvalue="Application.Fib" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +222,10 @@
       <workItem from="1605141948603" duration="142000" />
       <workItem from="1605752804515" duration="595000" />
       <workItem from="1605753644293" duration="29000" />
-      <workItem from="1605753694431" duration="413000" />
+      <workItem from="1605753694431" duration="1480000" />
+      <workItem from="1605772017401" duration="47000" />
+      <workItem from="1605772181090" duration="821000" />
+      <workItem from="1605798919556" duration="12720000" />
     </task>
     <servers />
   </component>
@@ -205,32 +242,41 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1605752965085">
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser" timestamp="1605886029054">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605752965085" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1605752965083">
+    <state x="533" y="160" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1605886029054" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605864204117">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605752965083" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1605752965082">
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605864204117" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1605888864068">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605752965082" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1605752965084">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605888864068" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1605888864067">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605752965084" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605888864067" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1605888864067">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605888864067" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1605888864068">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605888864068" />
     <state x="308" y="197" key="IDE.errors.dialog" timestamp="1605753068254">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="197" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1605753068254" />
-    <state x="229" y="57" key="SettingsEditor" timestamp="1605753766297">
+    <state x="229" y="57" key="SettingsEditor" timestamp="1605885308540">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="229" y="57" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605753766297" />
+    <state x="229" y="57" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605885308540" />
     <state x="229" y="78" key="SettingsEditor/0.25.1440.832@0.25.1440.832" timestamp="1605753722369" />
   </component>
 </project>
