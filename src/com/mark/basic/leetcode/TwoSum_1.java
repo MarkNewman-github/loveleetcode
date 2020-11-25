@@ -17,7 +17,7 @@ import java.util.List;
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 
-public class TwoSum {
+public class TwoSum_1 {
 
     public static void main(String[] args) {
         int[] num = {2, 7, 11, 15};

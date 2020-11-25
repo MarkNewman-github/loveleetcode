@@ -23,13 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bc95c6-94d1-410d-8be2-d725b9b14e22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Two_AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/sort/inside/BubbleSortFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/sort/inside/SelectionSortFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/HasCycle_141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/ReverseList_206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/sort/inside/InsertionSortFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loveleetcode/com/mark/basic/leetcode/Nine_isPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loveleetcode/com/mark/basic/leetcode/Nine_isPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Twenty_isValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Twenty_isValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loveleetcode/com/mark/basic/sort/inside/BubbleSortFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loveleetcode/com/mark/basic/sort/inside/BubbleSortFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Nine_isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/IsPalindrome_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Seven_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Reverse_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Twenty_isValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/IsValid_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/TwoSum_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Two_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/AddTwoNumbers_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/sort/inside/SelectionSortFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/sort/inside/SelectionSortFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,21 +86,7 @@
       <recent name="$PROJECT_DIR$/src/com/mark/basic/utils" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSortFunction">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mark.basic.s01.Array" />
-      <module name="loveleetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mark.basic.s01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SelectionSortFunction">
     <configuration name="BubbleSortFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mark.basic.sort.inside.BubbleSortFunction" />
       <module name="loveleetcode" />
@@ -132,6 +122,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.mark.basic.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectionSortFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mark.basic.sort.inside.SelectionSortFunction" />
+      <module name="loveleetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mark.basic.sort.inside.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,18 +192,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Fib" />
-      <item itemvalue="Application.Array" />
       <item itemvalue="Application.Seven_Reverse" />
       <item itemvalue="Application.Nine_isPalindrome" />
       <item itemvalue="Application.BubbleSortFunction" />
+      <item itemvalue="Application.SelectionSortFunction" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SelectionSortFunction" />
         <item itemvalue="Application.BubbleSortFunction" />
         <item itemvalue="Application.Nine_isPalindrome" />
         <item itemvalue="Application.Seven_Reverse" />
         <item itemvalue="Application.Fib" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +230,7 @@
       <workItem from="1605772181090" duration="821000" />
       <workItem from="1605798919556" duration="14529000" />
       <workItem from="1606284648073" duration="757000" />
-      <workItem from="1606286765578" duration="801000" />
+      <workItem from="1606286765578" duration="3839000" />
     </task>
     <servers />
   </component>
@@ -254,22 +258,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1605864204117" />
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1606282343806">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1606289958574">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606282343806" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1606282343805">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606289958574" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1606289958574">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606282343805" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1606282343804">
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606289958574" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1606289958573">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606282343804" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1606282343805">
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606289958573" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1606289958574">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606282343805" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606289958574" />
     <state x="308" y="197" key="IDE.errors.dialog" timestamp="1605753068254">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
