@@ -39,6 +39,12 @@ package com.mark.basic.leetcode;
  */
 public class Twenty_isValid {
 
+    /**
+     * 标准答案应该是使用栈数据结构进行处理，
+     * @param s
+     * @return
+     */
+
     public boolean isValid(String s) {
 
 
