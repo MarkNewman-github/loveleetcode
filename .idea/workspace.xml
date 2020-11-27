@@ -23,17 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96bc95c6-94d1-410d-8be2-d725b9b14e22" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/HasCycle_141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/ReverseList_206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/sort/inside/InsertionSortFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loveleetcode/com/mark/basic/sort/inside/BubbleSortFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loveleetcode/com/mark/basic/sort/inside/BubbleSortFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Nine_isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/IsPalindrome_9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Seven_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Reverse_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Twenty_isValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/IsValid_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/TwoSum_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/leetcode/Two_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/AddTwoNumbers_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/sort/inside/SelectionSortFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mark/basic/sort/inside/SelectionSortFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/s01/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mark/basic/s01/Fib.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +222,7 @@
       <workItem from="1605772181090" duration="821000" />
       <workItem from="1605798919556" duration="14529000" />
       <workItem from="1606284648073" duration="757000" />
-      <workItem from="1606286765578" duration="3839000" />
+      <workItem from="1606286765578" duration="4075000" />
     </task>
     <servers />
   </component>
