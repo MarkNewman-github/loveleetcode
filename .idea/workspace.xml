@@ -24,6 +24,8 @@
   <component name="ChangeListManager">
     <list default="true" id="96bc95c6-94d1-410d-8be2-d725b9b14e22" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/IsBalanced_110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/leetcode/MaxPathSum_124.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mark/basic/utils/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -66,7 +69,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -210,6 +213,17 @@
       <workItem from="1606733646709" duration="286000" />
       <workItem from="1606734034349" duration="556000" />
       <workItem from="1606801262890" duration="271000" />
+      <workItem from="1606807678752" duration="1037000" />
+      <workItem from="1606828360343" duration="509000" />
+      <workItem from="1606872197825" duration="437000" />
+      <workItem from="1606873171258" duration="187000" />
+      <workItem from="1606876763911" duration="14000" />
+      <workItem from="1606975486028" duration="247000" />
+      <workItem from="1607137093468" duration="308000" />
+      <workItem from="1607408303508" duration="412000" />
+      <workItem from="1607489340785" duration="379000" />
+      <workItem from="1607490218584" duration="188000" />
+      <workItem from="1607490569350" duration="345000" />
     </task>
     <servers />
   </component>
@@ -229,6 +243,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="449" y="278" key="#Notifications" timestamp="1607408347571">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="278" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1607408347571" />
     <state x="320" y="86" key="#Plugins" timestamp="1606734072805">
       <screen x="0" y="25" width="1440" height="832" />
     </state>
@@ -265,10 +283,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="308" y="197" key="IDE.errors.dialog/0.0.1440.900@0.0.1440.900" timestamp="1605753068254" />
-    <state x="229" y="57" key="SettingsEditor" timestamp="1606284627322">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="229" y="78" key="SettingsEditor" timestamp="1606975601264">
+      <screen x="0" y="25" width="1440" height="832" />
     </state>
     <state x="229" y="57" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606284627322" />
-    <state x="229" y="78" key="SettingsEditor/0.25.1440.832@0.25.1440.832" timestamp="1605753722369" />
+    <state x="229" y="78" key="SettingsEditor/0.25.1440.832@0.25.1440.832" timestamp="1606975601264" />
   </component>
 </project>
