@@ -4,7 +4,6 @@ package com.mark.basic.sort.inside;
 /**
  * 冒泡排序算法
  * 时间复杂度为O(n^2)
- * 测试成功
  * @author mark
  */
 public class BubbleSortFunction {
