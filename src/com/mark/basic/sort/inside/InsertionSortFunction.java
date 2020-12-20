@@ -3,6 +3,7 @@ package com.mark.basic.sort.inside;
 /**
  * 插入排序
  * 时间复杂度
+ * 插入排序算法：思路
  * @author mark
  */
 public class InsertionSortFunction {
